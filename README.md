@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 # fugitiva
 prototipo-fugitiva
